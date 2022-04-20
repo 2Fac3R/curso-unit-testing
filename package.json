@@ -4,7 +4,8 @@
   "description": "Curso de Unit Testing con Jest en React",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch" : "jest --watch"
   },
   "keywords": [
     "react",
