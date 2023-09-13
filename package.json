@@ -1,14 +1,13 @@
 {
   "name": "curso-unit-testing",
   "version": "1.0.0",
-  "description": "Curso de Unit Testing con Jest en React",
+  "description": "Curso de Unit Testing con Jest",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "test:watch" : "jest --watch"
   },
   "keywords": [
-    "react",
     "testing",
     "jest"
   ],
